@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import First from './components/First';
 import Tile1 from './components/Tile1';
@@ -11,23 +11,23 @@ import Footer from './components/Footer';
 
 
 function App() {
-  return(
+  return (
     <div>
-      <First/>
-      <Line/>
-      <Tile1/>
-      <Line/>
-      <Tile2/>
-      <Line/>
-      <Tile3/>
-      <Line/>
-      <Tile4/>
-      <Line/>
-      <Tile5/>
-      <Line/>
-      <Footer/>
+      <First />
+      <Line />
+      <Tile1 />
+      <Line />
+      <Tile2 />
+      <Line />
+      <Tile3 />
+      <Line />
+      <Tile4 />
+      <Line />
+      <Tile5 />
+      <Line />
+      <Footer />
     </div>
-  );  
+  );
 
 }
 
