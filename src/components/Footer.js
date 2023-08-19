@@ -7,29 +7,29 @@ function Footer() {
 
 
           <div className="container">
-            <div><a className="lineh">Questions? Contact us.</a></div>
+            <div><a href="/#" className="lineh">Questions? Contact us.</a></div>
 
             <div className="row align-items-center mt-4" style={{ paddingLeft: 0, marginLeft: 0, }}>
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 link">
-                <p><a href="" className='linka'>FAQ</a></p>
-                <p><a href="" className='linka'>Media Center</a></p>
-                <p><a href="" className='linka'>Ways to Watch</a></p>
-                <p><a href="" className='linka'>Cookie Preferences</a></p>
-                <p><a href="" className='linka'>Speed Test</a></p>
+                <p><a href="/#" className='linka'>FAQ</a></p>
+                <p><a href="/#" className='linka'>Media Center</a></p>
+                <p><a href="/#" className='linka'>Ways to Watch</a></p>
+                <p><a href="/#" className='linka'>Cookie Preferences</a></p>
+                <p><a href="/#" className='linka'>Speed Test</a></p>
               </div>
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 link">
-                <p><a href="" className='linka'>Help Center</a></p>
-                <p><a href="" className='linka'>Investor Relations</a></p>
-                <p><a href="" className='linka'>Terms of Use</a></p>
-                <p><a href="" className='linka'>Corporate Information</a></p>
-                <p><a href="" className='linka'>Legal Notices</a></p>
+                <p><a href="/#" className='linka'>Help Center</a></p>
+                <p><a href="/#" className='linka'>Investor Relations</a></p>
+                <p><a href="/#" className='linka'>Terms of Use</a></p>
+                <p><a href="/#" className='linka'>Corporate Information</a></p>
+                <p><a href="/#" className='linka'>Legal Notices</a></p>
               </div>
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 link">
-                <p><a href="" className='linka'>Account</a></p>
-                <p><a href="" className='linka'>Jobs</a></p>
-                <p><a href="" className='linka'>Privacy</a></p>
-                <p><a href="" className='linka'>Contact Us</a></p>
-                <p><a href="" className='linka'>Only on Netflix</a></p>
+                <p><a href="/#" className='linka'>Account</a></p>
+                <p><a href="/#" className='linka'>Jobs</a></p>
+                <p><a href="/#" className='linka'>Privacy</a></p>
+                <p><a href="/#" className='linka'>Contact Us</a></p>
+                <p><a href="/#" className='linka'>Only on Netflix</a></p>
               </div>
 
 
